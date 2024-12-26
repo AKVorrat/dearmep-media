@@ -1,0 +1,14 @@
+version = 1
+
+# Most of the IVR audio has been recorded by Yannic.
+[[annotations]]
+path = "ivr/*.wav"
+SPDX-FileCopyrightText = "© 2023 Yannic Hannebohn"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+# Silence utility file was created by eru – not sure if it's copyrightable at
+# all, but it can't hurt to list it here.
+[[annotations]]
+path = "ivr/0.1_silence.wav"
+SPDX-FileCopyrightText = "© 2023 iameru"
+SPDX-License-Identifier = "CC-BY-4.0"
