@@ -20,10 +20,15 @@ See the [IVR documentation](https://github.com/AKVorrat/dearmep/blob/main/doc/iv
 These files have been used in our [Chat Control campaign](https://dearmep.eu/showcase/chatcontrol/).
 While many of them are very generic, some (especially the talking points in `argument_*.wav` as well as `arguments_campaign_intro.*.wav` and `campaign_greeting.*.wav`) are campaign-specific or mention the campaign by name and thus would need to be replaced for other topics.
 
+### Group Logos
+
+The [`logos` subdirectory](logos) contains logos for the political group in the European Parliament as they were in 2023.
+
 
 ## License
 
-The contents of this repository are licensed under the terms of the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (`CC BY`).
+The parts of this repository where we are the copyright holder are licensed under the terms of the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license (`CC BY`).
+The group logos are assumed to not meet the threshold of originality and therefore to be in the public domain.
 
 The individual files are tagged accordingly.
 
